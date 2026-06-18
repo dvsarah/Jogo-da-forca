@@ -1,0 +1,240 @@
+P:HAMBÚRGUER 
+D:É um clássico dos fast-foods. 
+D:Tradicionalmente feito com carne moída em formato de disco. 
+D:É servido dentro de um pão redondo. 
+D:Geralmente leva queijo derretido. 
+D:Símbolo da culinária dos Estados Unidos. 
+D:Muitas vezes acompanha batata frita. 
+D:Pode ser artesanal ou industrializado. 
+D:O "X-Salada" é uma variação dele. 
+D:Molho barbecue combina muito bem. 
+D:Tem uma versão famosa chamada "Blend". 
+
+P:PIZZA 
+D:Tem formato redondo na maioria das vezes. 
+D:É de origem italiana, mas famosa no mundo todo. 
+D:É assada em forno, tradicionalmente a lenha. 
+D:A base é feita de massa de farinha de trigo. 
+D:Leva molho de tomate por baixo do recheio. 
+D:O sabor "Marguerita" é um dos mais clássicos. 
+D:É dividida em fatias (geralmente ). 
+D:Muçarela é o queijo mais utilizado nela. 
+D:É a comida oficial do domingo à noite para muitos. 
+D:Algumas pessoas comem a borda recheada. 
+
+P:PASTEL 
+D:É uma comida típica das feiras livres brasileiras. 
+D:É frito em óleo bem quente. 
+D:Sua massa fica crocante e cheia de "bolhas". 
+D:Combina perfeitamente com caldo de cana. 
+D:Os sabores mais comuns são carne e queijo. 
+D:Tem formato retangular ou de meia-lua. 
+D:É um salgado de origem asiática adaptado no Brasil. 
+D:A massa costuma levar um toque de cachaça. 
+D:É servido bem quente. 
+D:Existe a versão "de vento", que quase não tem recheio. 
+
+P:COXINHA 
+D:É o salgadinho de festa mais amado do Brasil. 
+D:Tem o formato que imita uma parte do frango. 
+D:O recheio tradicional é frango desfiado. 
+D:Muitas vezes o recheio vem acompanhado de catupiry. 
+D:É empanada e frita. 
+D:A pontinha costuma ser a primeira parte a ser comida. 
+D:A massa tradicional leva batata ou caldo de galinha. 
+D:É dourada por fora e macia por dentro. 
+D:Fica ótima com algumas gotas de pimenta. 
+D:Existe em tamanho "festa" ou tamanho "lanchonete". 
+
+P:FEIJOADA 
+D:É considerada o prato nacional do Brasil. 
+D:O ingrediente principal é um grão de cor escura. 
+D:Leva várias partes de carne de porco. 
+D:Tradicionalmente é servida com couve refogada e farofa. 
+D:A laranja é usada como acompanhamento para ajudar na digestão. 
+D:É um prato pesado, ótimo para os fins de semana. 
+D:Cozinha por longas horas para engrossar o caldo. 
+D:É muito associada a rodas de samba. 
+D:Leva ingredientes como paio e calabresa. 
+D:Costuma ser servida em panelas ou travessas de barro. 
+
+LASANHA 
+D:Prato italiano feito em camadas. 
+D:Intercala massa, molho e recheio. 
+D:É montada em um refratário e vai ao forno. 
+D:O sabor "Bolonhesa" é o mais famoso. 
+D:Fica com uma camada de queijo gratinado por cima. 
+D:A massa é em formato de folhas retangulares. 
+D:Leva molho vermelho, molho branco ou ambos. 
+D:É um prato muito comum nos almoços de domingo em família. 
+D:É preciso cuidado para não desmoronar ao cortar. 
+D:O presunto e a muçarela são recheios quase obrigatórios. 
+
+P:STROGONOFF 
+D:Prato de origem russa que se popularizou no Brasil. 
+D:Pode ser feito de carne de boi, frango ou camarão. 
+D:O molho leva creme de leite e extrato de tomate (ou ketchup). 
+D:Os acompanhamentos infalíveis são arroz branco e batata palha. 
+D:A carne é cortada em tirinhas ou cubos pequenos. 
+D:Tradicionalmente leva cogumelos (champignon). 
+D:Algumas pessoas adicionam um toque de mostarda. 
+D:É um prato rápido e muito fácil de fazer. 
+D:O nome original se escreve com "Strogonov". 
+D:No Brasil, ganhou uma versão bem mais adocicada que a original. 
+
+P:MOQUECA 
+D:É um cozido de peixe ou frutos do mar. 
+D:É feita tradicionalmente em panela de barro. 
+D:Existe uma disputa famosa entre as versões Capixaba e Baiana. 
+D:A versão baiana leva azeite de dendê e leite de coco. 
+D:A versão capixaba usa urucum e não leva dendê. 
+D:Leva pimentões coloridos, cebola e tomate em rodelas. 
+D:O coentro é um tempero indispensável nesse prato. 
+D:É muito consumida em regiões litorâneas do Brasil. 
+D:Costuma ser acompanhada por pirão. 
+D:Não leva água no cozimento, apenas o suco dos vegetais e do peixe. 
+
+P:BRIGADEIRO 
+D:O doce mais famoso das festas de aniversário brasileiras. 
+D:É feito com leite condensado, manteiga e chocolate em pó. 
+D:É enrolado em formato de bolinha. 
+D:É coberto por granulado de chocolate. 
+D:Tem o nome de um cargo militar (patente da aeronáutica). 
+D:Pode ser comido direto da panela com uma colher. 
+D:É um doce inventado no Brasil. 
+D:Ficou famoso na década de  durante uma campanha eleitoral. 
+D:Hoje em dia existem as versões "gourmet" com chocolate belga. 
+D:É servido em forminhas de papel plissado. 
+
+P:PUDIM 
+D:Sobremesa clássica com textura muito cremosa. 
+D:É assado em banho-maria. 
+D:Tem o formato de um anel (com um furo no meio). 
+D:É coberto por uma calda de caramelo dourada. 
+D:Os ingredientes básicos são leite condensado, ovos e leite. 
+D:Existe a eterna polêmica:"com furinhos" ou "sem furinhos". 
+D:É desenformado depois de gelado. 
+D:Derrete na boca. 
+D:É uma das sobremesas mais pedidas em restaurantes brasileiros. 
+D:A calda é feita apenas com açúcar derretido e água. 
+
+P:CHURROS 
+D:Doce frito em formato cilíndrico e alongado. 
+D:É muito popular em feiras, parques e carrinhos de rua. 
+D:A massa é polvilhada com açúcar e canela. 
+D:O recheio tradicional na América Latina é o doce de leite. 
+D:Tem a superfície estriada (com linhas). 
+D:É frito até ficar bem crocante por fora. 
+D:É de origem espanhola ou portuguesa. 
+D:No seriado Chaves, o Seu Madruga montou uma venda disso. 
+D:Existe a versão espanhola que é fina e mergulhada no chocolate quente. 
+D:Pode ser recheado por dentro ou apenas acompanhado por um mergulho (dip). 
+
+P:SORVETE 
+D:Sobremesa congelada perfeita para dias quentes. 
+D:É feito à base de leite ou água com frutas. 
+D:É servido em casquinha ou no copinho. 
+D:A colher usada para servir tem formato de concha esférica. 
+D:Baunilha e chocolate são os sabores mais vendidos no mundo. 
+D:Pode levar caldas extras, como de morango ou caramelo. 
+D:O tipo "italiano" é conhecido como Gelato. 
+D:É a base do milk-shake. 
+D:Uma sobremesa famosa que o envolve é o "Sundae". 
+D:Se comer muito rápido, pode dar um "congelamento cerebral". 
+
+P:BANANA 
+D:É uma das frutas mais consumidas no mundo. 
+D:Tem formato alongado e curvado. 
+D:Sua casca é amarela quando está madura. 
+D:É rica em potássio, ótima para evitar cãibras. 
+D:É muito fácil de descascar com as próprias mãos. 
+D:Existem os tipos:"Nanica", "Prata" e "Maçã". 
+D:Cresce em grandes cachos nas árvores. 
+D:É a fruta favorita dos macacos nos desenhos animados. 
+D:Pode ser frita e servida como acompanhamento no almoço. 
+D:Quando passa do ponto, a casca fica cheia de pintinhas pretas. 
+
+P:MORANGO 
+D:Fruta pequena, vermelha e de formato levemente cônico. 
+D:Tem pequenas sementes espalhadas por toda a sua casca. 
+D:Tem folhas verdes no topo que parecem uma coroa. 
+D:Tem um sabor azedinho e doce ao mesmo tempo. 
+D:É o par perfeito do chocolate em fondues. 
+D:É muito usado para decorar bolos e tortas. 
+D:É uma fruta de clima mais frio. 
+D:É o sabor de iogurte mais famoso do mercado. 
+D:Faz parte do grupo das "frutas vermelhas" ou "berries". 
+D:É muito sensível e estraga rápido se não for refrigerado. 
+
+P:MELANCIA 
+D:É uma fruta gigante e muito pesada. 
+D:É verde por fora e vermelha por dentro. 
+D:É composta por mais de % de água, sendo muito hidratante.
+D:Tem muitas sementes pretas ou escuras no seu interior. 
+D:É a fruta favorita da personagem Magali, da Turma da Mônica. 
+D:É perfeita para fatiar em formato de triângulo. 
+D:Sua casca é dura e listrada. 
+D:É típica do verão. 
+D:O suco feito com ela não precisa de água adicionada. 
+D:Comer as sementes não faz nascer uma planta na barriga (mito!). 
+
+P:ABACAXI 
+D:É conhecido como o "rei das frutas". 
+D:Tem uma "coroa" de folhas pontiagudas na parte superior. 
+D:Sua casca é áspera, cheia de gomos e espinhos. 
+D:É uma fruta muito ácida e cítrica. 
+D:No Brasil, a expressão "descascar um..." significa resolver um problema. 
+D:A polpa é amarela e muito suculenta. 
+D:Combina muito bem com hortelã em sucos. 
+D:Ajuda na digestão de carnes pesadas em churrascos. 
+D:Na pizza "Hawaiiana", ele é colocado junto com presunto. 
+D:Nasce no chão, no centro de uma planta rasteira. 
+
+P:CHOCOLATE 
+D:É feito a partir das sementes do cacau. 
+D:Pode ser encontrado nas versões ao leite, meio amargo e branco. 
+D:É o doce mais presente na época da Páscoa. 
+D:Derrete facilmente com o calor do corpo. 
+D:A Suíça e a Bélgica são famosas pela alta qualidade deste produto. 
+D:Contém substâncias que estimulam a sensação de bem-estar. 
+D:É vendido em barras, bombons ou pó. 
+D:É tóxico para cães e gatos. 
+D:A versão "amarga" tem maior concentração de cacau e menos açúcar. 
+D:É a base de receitas como brownie e mousse. 
+
+P:QUEIJO 
+D:É um derivado do leite (vaca, cabra, búfala, etc.). 
+D:O processo de fabricação envolve a coagulação do leite. 
+D:Minas, Prato e Gorgonzola são tipos dele. 
+D:É o alimento favorito dos ratos nos desenhos. 
+D:Derrete e estica quando é aquecido. 
+D:Pode ser fresco e branco ou curado e amarelado. 
+D:É o ingrediente principal do pão de queijo. 
+D:Países como a França têm centenas de variedades dele. 
+D:Alguns tipos mais velhos têm um cheiro muito forte. 
+D:É indispensável em pizzas e lasanhas. 
+
+P:PIPOCA
+D:É feita a partir de um grão de milho especial. 
+D:O grão estoura quando é aquecido em óleo ou ar quente. 
+D:É o lanche indispensável para assistir a um filme no cinema. 
+D:Quando o milho não estoura, o grão que sobra é chamado de "piruá". 
+D:Pode ser salgada (com sal e manteiga) ou doce (com caramelo). 
+D:Faz um barulho estalado muito característico ao ser preparada. 
+D:Fica branca, fofinha e com formato irregular após estourar. 
+D:É muito consumida nas Festas Juninas. 
+D:Existe a versão prática de micro-ondas. 
+D:É rica em fibras, mas o excesso de sal e manteiga a torna calórica. 
+
+P:CEBOLA 
+D:É um dos temperos da base da cozinha brasileira (junto com o alho). 
+D:É um vegetal que cresce debaixo da terra (um bulbo). 
+D:Tem várias camadas que podem ser descascadas. 
+D:Costuma fazer as pessoas chorarem quando é cortada. 
+D:Existe a versão branca/amarela tradicional e a versão roxa. 
+D:Quando frita em rodelas empanadas, vira um aperitivo de fast-food (rings). 
+D:Tem um sabor picante quando crua e adocicado quando caramelizada. 
+D:Deixa o hálito forte se for comida crua na salada. 
+D:Libera gases que reagem com a água dos olhos, causando as lágrimas. 
+D:É a base para refogar o arroz e o feijão do dia a dia. 
+
