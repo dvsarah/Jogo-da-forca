@@ -214,9 +214,6 @@ def ReiniciarJogo():
     
 def Main():
     os.system('cls')
-    print("\nMariana Coronado Teixera; RA: 1680972611016")
-    print("Pedro Henrique Rodrigues Pimenta; RA: 1680972611015")
-    print("Sarah Dias Viana; RA: 1680972611011\n")
 
     print("JOGO [X] | DICAS [x] | CONTROLE DE TEMPO [X]\n")
 
